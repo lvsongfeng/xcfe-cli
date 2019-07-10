@@ -1,5 +1,5 @@
 {
-  "name": "xCar-cli",
+  "name": "xcar-cli",
   "version": "1.0.0",
   "description": "生成项目模板脚手架",
   "main": "index.js",
